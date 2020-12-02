@@ -1,0 +1,25 @@
+{
+  "name": "startpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/style.css -o style/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradybellini/startpage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradybellini/startpage/issues"
+  },
+  "homepage": "https://github.com/bradybellini/startpage#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.9",
+    "tailwindcss": "^2.0.1"
+  }
+}
