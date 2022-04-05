@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bradybellini/startpage#readme",
   "dependencies": {
     "autoprefixer": "^10.0.2",
-    "postcss": "^8.1.9",
+    "postcss": "^8.2.13",
     "tailwindcss": "^2.0.1"
   }
 }
